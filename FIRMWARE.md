@@ -3,4 +3,4 @@ While custom ROMs like LineageOS 17.1 might work, they are untested and not reco
 
 Pay attention to your device name before downloading the firmware below. Make sure you download the right firmware for your device, the correct region, the firmware type is fastboot, and the **Android** version is **10.0**!
 
-*Poco X3 NFC (surya):* [LINK](https://xiaomifirmwareupdater.com/archive/miui/surya)
+*Poco X3 NFC (surya):* [LINK](https://xmfirmwareupdater.com/archive/miui/surya)
